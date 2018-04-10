@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Musical  App</string>
+    <string name="Morning_Music">Morning Music</string>
+    <string name="Night_Music">Night Music</string>
+    //Morning Music
+    <string name="m_one">Morning Dew</string>
+    <string name="m_artName_one">Santec Music Orchestra</string>
+    <string name="m_tow">Good Morning</string>
+    <string name="m_artName_tow">Kanye West</string>
+    <string name="m_three">In the Morning</string>
+    <string name="m_artName_three">ZHU</string>
+    <string name="m_four">Morning Coffee</string>
+    <string name="m_artName_four">Jesper Munk</string>
+    <string name="m_five">In the Morning</string>
+    <string name="m_artName_five"> NAO</string>
+    <string name="m_six">Morning</string>
+    <string name="m_artName_six">Beck</string>
+    //Night Music
+    <string name="n_one">Meditation Music</string>
+    <string name="n_artName_one">Night Nick</string>
+    <string name="n_tow">Relaxing Music </string>
+    <string name="n_artName_tow">Forest Sounds</string>
+    <string name="n_three">Asian Zen</string>
+    <string name="n_artName_three">Musique </string>
+    <string name="n_four">Soft Music</string>
+    <string name="n_artName_four">Deep Light</string>
+    <string name="n_five">soft room</string>
+    <string name="n_artName_five">lorn</string>
+    <string name="n_six">Soft Music</string>
+    <string name="n_artName_six">Sandra Torent</string>
+</resources>
