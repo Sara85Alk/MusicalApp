@@ -32,13 +32,13 @@ public class MorningActivity extends AppCompatActivity {
         //  Music . The adapter knows how to create list item views for each item
         // in the list.
 
-        MusicAdapter AdaptorForList = new MusicAdapter(this, morningMusic);
+        MusicAdapter adaptorForList = new MusicAdapter(this, morningMusic);
 
         // Get a reference to the ListView, and attach the adapter to the listView.
 
         final ListView ListView = findViewById(R.id.list);
 
-        ListView.setAdapter(AdaptorForList);
+        ListView.setAdapter(adaptorForList);
         // Set a Item Click Listener on that list view to play media player.
         ListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
